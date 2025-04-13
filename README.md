@@ -1,2 +1,2 @@
 # linux-kernel-programming
-Code snippets from [Linux Kernel Module Programming Guide](https://github.com/sysprog21/lkmpg)
+Here is presented everything (code snippets, comments on startup, debugging, etc.) obtained while reading [Linux Kernel Module Programming Guide](https://github.com/sysprog21/lkmpg)
