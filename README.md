@@ -1,2 +1,2 @@
 # linux-kernel-programming
-Examples from Linux Kernel Module Programming Guide
+Code snippets from [Linux Kernel Module Programming Guide](https://github.com/sysprog21/lkmpg)
